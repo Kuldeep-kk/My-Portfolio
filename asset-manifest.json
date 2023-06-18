@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/My-Portfolio/static/css/main.db37cd84.css",
+    "main.js": "/My-Portfolio/static/js/main.95ed0ec5.js",
+    "static/media/itzone_gif.gif": "/My-Portfolio/static/media/itzone_gif.d6d185094c73140f089d.gif",
+    "static/media/itzone_app_gif.gif": "/My-Portfolio/static/media/itzone_app_gif.233fb6c079d5e7a1c57d.gif",
+    "static/media/rpk_gif.gif": "/My-Portfolio/static/media/rpk_gif.1080646729ae5d31a7e0.gif",
+    "static/media/kkLogo.gif": "/My-Portfolio/static/media/kkLogo.47281f6ddb4d3b42c5fc.gif",
+    "static/media/rpkpy.gif": "/My-Portfolio/static/media/rpkpy.055d24ecd83c8937db77.gif",
+    "static/media/contactUs.gif": "/My-Portfolio/static/media/contactUs.a5ce240a357bc22c7623.gif",
+    "static/media/faqLogo.png": "/My-Portfolio/static/media/faqLogo.042df2ac0000749a554d.png",
+    "static/media/webdev.png": "/My-Portfolio/static/media/webdev.65e6f9da6259c295e992.png",
+    "static/media/itzonepc.png": "/My-Portfolio/static/media/itzonepc.b6872a040985200f5077.png",
+    "static/media/tt.png": "/My-Portfolio/static/media/tt.bbf8e9233be858276e4d.png",
+    "static/media/itzone_app_img.png": "/My-Portfolio/static/media/itzone_app_img.1970fbb5c30de5aabd8f.png",
+    "static/media/rpkimg.png": "/My-Portfolio/static/media/rpkimg.e684beec5099907d8ef2.png",
+    "static/media/appdev.png": "/My-Portfolio/static/media/appdev.7a0998b270d3185a2069.png",
+    "static/media/eyePic.png": "/My-Portfolio/static/media/eyePic.101fd85d3a46709c1e95.png",
+    "static/media/rpk_py.png": "/My-Portfolio/static/media/rpk_py.5edf8c5f10eccb6497e0.png",
+    "static/media/arrow-r.png": "/My-Portfolio/static/media/arrow-r.48dc8cd14c489be1463e.png",
+    "static/media/arrow-l.png": "/My-Portfolio/static/media/arrow-l.c4f052ccf756276eab3a.png",
+    "static/media/guidev.png": "/My-Portfolio/static/media/guidev.e0e4c4e4303ad0462ac3.png",
+    "static/media/Sun.svg": "/My-Portfolio/static/media/Sun.681607dcda2a01539a9a8a157ae74e6e.svg",
+    "index.html": "/My-Portfolio/index.html",
+    "static/media/Moon.svg": "/My-Portfolio/static/media/Moon.0a6a2b75ac51157455302ddcfca385c0.svg",
+    "main.db37cd84.css.map": "/My-Portfolio/static/css/main.db37cd84.css.map",
+    "main.95ed0ec5.js.map": "/My-Portfolio/static/js/main.95ed0ec5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db37cd84.css",
+    "static/js/main.95ed0ec5.js"
+  ]
+}
